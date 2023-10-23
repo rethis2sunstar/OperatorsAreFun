@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+header {
+  background-color: darkblue;
+  color: white;
+}
+.simple {
+  background-color: lightgray;
+}
+textarea {
+  font-size: 20pt;
+  height: 400px;
+  width: 100%;
+}
+section:nth-child(2n) {
+  background-color: lightgray;
+}
+#basicComparison {
+  height: 600px;
+}
+#inequalities {
+  height: 600px;
+}
